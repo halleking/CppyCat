@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>neon-cat-clipart-4.gif</file>
+        <file>sad-cat.png</file>
+    </qresource>
+</RCC>

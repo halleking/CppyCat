@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sound_effects">
+        <file>fail-buzzer-04.mp3</file>
+        <file>Button1.wav</file>
+        <file>Button2.wav</file>
+        <file>Button3.wav</file>
+        <file>Button4.wav</file>
+        <file>Button5.wav</file>
+        <file>Button6.wav</file>
+    </qresource>
+</RCC>
